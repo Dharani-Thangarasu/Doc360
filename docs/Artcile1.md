@@ -1,1 +1,1 @@
-Article 1 Updated
+Article 1 
