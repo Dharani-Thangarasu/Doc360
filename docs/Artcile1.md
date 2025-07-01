@@ -1,2 +1,1 @@
-Article 1 
-New content added
+Article 1 content added
