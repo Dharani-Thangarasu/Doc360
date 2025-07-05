@@ -1,1 +1,1 @@
-Article 1 content added
+Article 1 content removbed
