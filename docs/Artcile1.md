@@ -1,2 +1,1 @@
-Article 1 content 
- Edited this conetnt
+Article 1 content
