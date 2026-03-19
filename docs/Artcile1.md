@@ -1,6 +1,7 @@
 Article 1 content
 
-Added content on 2:48 
+Added content on 5:08pm
+
 Key features of the Intercom chat integration
 
 Messenger integration
