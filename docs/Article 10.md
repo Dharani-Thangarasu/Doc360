@@ -1,3 +1,3 @@
 New article created to test resync
 
-znbhsdv
+Updated to validate resync in stag
